@@ -28,8 +28,10 @@ jobs:
         uses: actions/configure-pages@v5
       # base_url is https://<user>.github.io/<repo> until the custom domain is set in Settings → Pages, then https://morningblotter.com
       - run: |
-          EXTRA=""; case "${{ steps.pages.outputs.base_url }}" in *github.io*) EXTRA="--drafts";; esac   # previews show draft editions; the real domain never does
-          python build.py --out _site --base "${{ steps.pages.outputs.base_url }}" $EXTRA
+          BASE="${{ steps.pages.outputs.base_url }}"
+          BASE="${BASE/http:\/\//https://}"   # canonical URLs, sitemap and share cards are always https (the certificate is enforced)
+          EXTRA=""; case "$BASE" in *github.io*) EXTRA="--drafts";; esac   # previews show draft editions; the real domain never does
+          python build.py --out _site --base "$BASE" $EXTRA
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
