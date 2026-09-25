@@ -1,0 +1,3 @@
+Playfair Display — Copyright 2017 The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display), SIL Open Font License 1.1.
+Special Elite — Copyright 2010 Astigmatic, Apache License 2.0.
+Both fonts are used unmodified for rendering share-card images at build time and as web fonts served by Google Fonts.

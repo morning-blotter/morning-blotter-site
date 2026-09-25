@@ -1,0 +1,105 @@
+{
+  "draft": true,
+  "kind": "daily",
+  "vol": 1,
+  "no": 1,
+  "date": "2026-09-26",
+  "headline": "Philadelphia police plan to open the walls of the Horsch house",
+  "subject": "The Morning Blotter — Nº 1 — Sat., Sept. 26: Police plan to open the walls of the Horsch house",
+  "summary": "Detectives may begin pulling walls and floorboards at 417 West Chew Avenue as early as next week, where police say recovered video links seven women to the house. Five are feared dead; no one has been charged in any disappearance.",
+  "preheader": "A deeper search of the Olney rowhouse; the son's federal hearing slips to March; the FBI is 30 percent through a million files.",
+  "intro_html": "<p>Good morning. Today's lead is a house in North Philadelphia that investigators have been inside for three months and are about to take apart — and the seven women whose names belong at the top of every story about it. Every headline links to the original source.</p>",
+  "sections": [
+    {
+      "type": "top_case",
+      "chip": "SEARCH",
+      "headline": "Police plan a deeper physical examination of the Olney home tied to missing women",
+      "url": "https://www.nbcphiladelphia.com/news/local/philadelphia-police-plan-deeper-examination-of-olney-home-tied-to-missing-women/4468123/",
+      "source": "NBC10",
+      "jurisdiction": "Philadelphia, PA",
+      "state": "PA",
+      "date": "2026-09-23",
+      "body_html": "<p>Philadelphia police say detectives may begin a deeper physical search of 417 West Chew Avenue as early as the week of September 28 — removing walls and floorboards in the places the recovered images point to. Investigators have served nearly a hundred search warrants on the rowhouse since June and recovered more than a million digital items, five urns of cremated remains, firearms, drugs and a basement laboratory. As of Tuesday, they had found no human remains and no biological evidence of a homicide.</p><p>Seven women are linked to the house by police: Gabrielle Amarando, Amy McHale, Maribel Fresses, Nicole Fusaro, Blair Tonzelli, a 25-year-old woman whose family has asked for anonymity, and a woman investigators call Jane Doe. Five are feared dead — a conclusion investigators say rests on the video evidence, if the images are real and unaltered. The man police describe in that footage, Raymond \"R.C.\" Horsch, died in 2025 and was never charged.</p>",
+      "case_notes": "A search this invasive usually means investigators believe they know where to look. It does not mean they know what they will find; three months in, the record still holds no remains. Watch for the crime-scene unit's schedule and for whether the FBI's evidence-response team leads it.",
+      "cases": ["horsch-olney"]
+    },
+    {
+      "type": "blotter",
+      "items": [
+        {
+          "chip": "FEDERAL COURT",
+          "headline": "Eugene Horsch's federal gun case is postponed to March 22",
+          "url": "https://6abc.com/post/eugene-horsch-arrest-federal-gun-case-delayed-amid-growing-investigation-philadelphia-home/19859518/",
+          "source": "6abc",
+          "jurisdiction": "Philadelphia, PA",
+          "state": "PA",
+          "date": "2026-09-23",
+          "body_html": "<p>The next hearing for the property's owner, Eugene Horsch, 44 — in federal custody since June 19 on charges of being a felon in possession of firearms, possessing a gun with an obliterated serial number and carrying fake DEA and FBI credentials — has been moved to March 22, 2027, citing a busy trial schedule and his lawyer's need for more time. He is not charged in any disappearance and is presumed innocent.</p>",
+          "cases": ["horsch-olney"]
+        },
+        {
+          "chip": "THE EVIDENCE",
+          "headline": "The FBI has reviewed about 30 percent of the million files from the house",
+          "url": "https://www.fox29.com/news/horsch-investigation-police-provide-update-evidence-recovered-from-olney-home",
+          "source": "Fox29",
+          "jurisdiction": "Philadelphia, PA",
+          "state": "PA",
+          "date": "2026-09-16",
+          "body_html": "<p>At last week's briefing, investigators put the digital haul at more than 600,000 images, 70,000 videos and 10,000 pages of writing, depicting at least 58 people. Of those 58, five women appear lifeless; ten others later died of overdoses elsewhere; sixteen have been located and interviewed, twenty-five are scheduled, and three declined. The remaining 70 percent of the material is still being reviewed.</p>",
+          "cases": ["horsch-olney"]
+        }
+      ]
+    },
+    {
+      "type": "case_file",
+      "no": 1,
+      "title": "The house on West Chew Avenue",
+      "body_html": "<p>The block is ordinary: two-story rowhouses, Olney, a neighborhood that has been working-class for a century. The house at 417 belonged to Raymond Horsch until 2006 and to his son after that. Friends and relatives of missing women had, over the years, pointed authorities toward it. Nothing stuck.</p><p>In May 2025 the house caught fire. The narcotics officers who searched it afterward reported marijuana, guns, ammunition and containers of chemicals — a drug case, on paper. Raymond Horsch died later that year, at 82, never charged with anything connected to the property.</p><p>Then, on June 19, 2026, U.S. Park Rangers found a black BMW parked illegally near Independence Mall. Inside were fake DEA and FBI credentials and two loaded guns; the driver was Eugene Horsch. The woman with him handed over an ID in the name of Blair Tonzelli — a woman who had been missing since 2023, and whose photograph it was not. That ID is the hinge of the case as police tell it. Within weeks, investigators were back at 417 West Chew Avenue, and this time they did not stop at the drugs.</p><p>What they describe finding is on the record and repeated in this brief only as they have described it: a basement laboratory with a 55-gallon drum plumbed to the water lines; more than twenty containers of unknown substances; five urns; and the files — a million of them — in which police say five women appear alive and then do not. What it means is not on the record yet. Nobody has been charged in a death. No remains have been found. The investigators who will open the walls next week are looking for the difference between a video and a body.</p>",
+      "pull_quote": "The investigators who will open the walls next week are looking for the difference between a video and a body.",
+      "cases": ["horsch-olney"],
+      "sources": [
+        {"title": "Billy Penn: All that we know", "url": "https://billypenn.com/2026/09/18/philadelphia-house-of-horrors-police-investigation-olney-update/"},
+        {"title": "6abc: the June 19 arrest", "url": "https://6abc.com/post/eugene-horsch-arrest-federal-gun-case-delayed-amid-growing-investigation-philadelphia-home/19859518/"}
+      ]
+    },
+    {
+      "type": "microscope",
+      "chip": "FORENSICS",
+      "headline": "Why a lab in Chicago is testing the pipes",
+      "url": "https://www.cbsnews.com/philadelphia/news/raymond-rc-horsch-olney-house-philadelphia/",
+      "source": "CBS Philadelphia",
+      "date": "2026-09-18",
+      "body_html": "<p>Court documents indicate investigators sought evidence that human remains were destroyed chemically. Pipes removed from the basement went to a federal laboratory in Chicago because the question is not what the drum held but what passed through the plumbing — residue in a trap can carry DNA where a scrubbed room cannot. It is slow work, and a negative result would not close the question; it would only mean the pipes do not answer it.</p>"
+    },
+    {
+      "type": "presented_by"
+    },
+    {
+      "type": "docket",
+      "items": [
+        {"date": "Sun., Sept. 27", "text": "Community meeting near the property with Councilmember Anthony Phillips, Olney.", "url": "https://www.nbcphiladelphia.com/news/local/philadelphia-police-plan-deeper-examination-of-olney-home-tied-to-missing-women/4468123/"},
+        {"date": "Week of Sept. 28", "text": "The deeper physical search of 417 West Chew Avenue may begin."},
+        {"date": "March 22, 2027", "text": "Eugene Horsch's next federal hearing, postponed from January."}
+      ]
+    }
+  ],
+  "episode": {
+    "transistor_id": 3601767,
+    "title": "Nº 1 — The Horsch house (preview: Episode 0 stands in)",
+    "share_url": "https://share.transistor.fm/s/51058087",
+    "media_url": "https://media.transistor.fm/51058087/d4a05374.mp3",
+    "duration_s": 729,
+    "notes_html": "<p>Preview only — in the live site this player carries the day's episode and this box carries its notes.</p>",
+    "transcript": "[COLD OPEN]\nCASEY: Preview transcript. On the live site, the full episode transcript sits here, speaker by speaker, segment by segment.\nRAY: Every word we said, in the order we said it. Evidence first."
+  },
+  "cases": ["horsch-olney"],
+  "states": ["PA"],
+  "sources": [
+    {"title": "Philadelphia police plan deeper examination of Olney home tied to missing women", "outlet": "NBC10", "date": "2026-09-23", "url": "https://www.nbcphiladelphia.com/news/local/philadelphia-police-plan-deeper-examination-of-olney-home-tied-to-missing-women/4468123/"},
+    {"title": "Eugene Horsch's federal gun case delayed amid growing investigation", "outlet": "6abc", "date": "2026-09-23", "url": "https://6abc.com/post/eugene-horsch-arrest-federal-gun-case-delayed-amid-growing-investigation-philadelphia-home/19859518/"},
+    {"title": "Police provide update on evidence recovered from Olney home", "outlet": "Fox29", "date": "2026-09-16", "url": "https://www.fox29.com/news/horsch-investigation-police-provide-update-evidence-recovered-from-olney-home"},
+    {"title": "Philadelphia's 'house of horrors' investigation: All that we know", "outlet": "Billy Penn", "date": "2026-09-18", "url": "https://billypenn.com/2026/09/18/philadelphia-house-of-horrors-police-investigation-olney-update/"},
+    {"title": "Psychologist on R.C. Horsch", "outlet": "CBS Philadelphia", "date": "2026-09-18", "url": "https://www.cbsnews.com/philadelphia/news/raymond-rc-horsch-olney-house-philadelphia/"}
+  ],
+  "claims_reconciled": true
+}

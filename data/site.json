@@ -1,0 +1,85 @@
+{
+  "name": "The Morning Blotter",
+  "tagline": "True crime, every morning",
+  "tagline2": "Reported with care",
+  "description": "The Morning Blotter is a free daily true-crime brief — the top case, the wire, one case told properly, and what's on the docket — in your inbox at 7:00 AM ET, with a two-host podcast edition. Every headline links to its original source.",
+  "url": "https://morningblotter.com",
+  "alt_domains": [
+    "https://themorningblotter.com"
+  ],
+  "language": "en-US",
+  "timezone": "America/New_York",
+  "send_time": "7:00 AM ET",
+  "email": {
+    "desk": "desk@morningblotter.com",
+    "hello": "hello@morningblotter.com",
+    "mailbag": "mailbag@morningblotter.com",
+    "partners": "partners@morningblotter.com",
+    "subscribe": "subscribe@morningblotter.com"
+  },
+  "subscribe_endpoint": "https://script.google.com/macros/s/AKfycbx-8VUkbakDxgqFvIRjWFK8b0ehkBhX70Vo9wocg4fYqZ73XgNbUB10TLu4KBTnU4Xx2w/exec",
+  "search_console_tag": "",
+  "podcast": {
+    "title": "The Morning Blotter",
+    "feed_url": "https://feeds.transistor.fm/the-morning-blotter",
+    "transistor_show_id": 82770,
+    "share_base": "https://share.transistor.fm",
+    "hosts": [
+      {
+        "name": "Casey Quinn",
+        "role": "Courts reporter — the voice of the victims",
+        "blurb": "Thirty-something, quick, precise, and unwilling to let a name go unsaid. Casey opens every case with the people it happened to, says their names correctly and says them more than once, and asks the questions a listener would ask."
+      },
+      {
+        "name": "Ray Sullivan",
+        "role": "Bronx cop turned FBI profiler — the one who did it is his",
+        "blurb": "Twenty years on the job in New York, then twenty more in the Bureau's behavioral unit. Ray takes the case apart from the record — what investigators knew, what they found, what it meant — and he does not pronounce anyone guilty. A profile tells you where to look; it doesn't tell you who did it."
+      }
+    ],
+    "directories": [
+      {
+        "name": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/podcast/the-morning-blotter/id6816198383"
+      },
+      {
+        "name": "Spotify",
+        "url": "https://open.spotify.com/show/5Z8j3NWZEyFKmJXewvv806"
+      },
+      {
+        "name": "Amazon Music",
+        "url": "https://music.amazon.com/podcasts/26e6b405-e1e4-4d1e-a07a-ae40a2d91fe3"
+      },
+      {
+        "name": "Pocket Casts",
+        "url": "https://pca.st/itunes/6816198383"
+      },
+      {
+        "name": "Overcast",
+        "url": "https://overcast.fm/itunes6816198383"
+      },
+      {
+        "name": "Castro",
+        "url": "https://castro.fm/itunes/6816198383"
+      },
+      {
+        "name": "Castbox",
+        "url": "https://castbox.fm/vic/6816198383"
+      },
+      {
+        "name": "Deezer",
+        "url": "https://www.deezer.com/show/1003612642"
+      },
+      {
+        "name": "RSS",
+        "url": "https://feeds.transistor.fm/the-morning-blotter"
+      }
+    ]
+  },
+  "ethics_line": "We report with care. Victims are named with respect, the accused are presumed innocent until conviction, and every headline links to its original source — details can evolve, so check the link before repeating them.",
+  "ai_line": "Compiled with AI-assisted research; every item is verified against the linked source before it goes out. The podcast's hosts, Ray and Casey, are AI-voiced; the reporting is checked by a human desk.",
+  "social": {},
+  "github": {
+    "user": "morning-blotter",
+    "repo": "morning-blotter/morning-blotter-site"
+  }
+}
